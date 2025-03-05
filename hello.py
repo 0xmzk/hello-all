@@ -1,2 +1,6 @@
 print("Hello Mieszko")
+print("Hi")
+print("Hi Hi Hi")
+print("How are you today?")
+print("Good day")
 print("Hi I am not Mieszko")
