@@ -1,1 +1,1 @@
-print("Hello Mieszko")
+# A different file content is here
